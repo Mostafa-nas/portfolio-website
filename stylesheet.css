@@ -11,12 +11,12 @@
 header{
     background-color: #E4E4DE;
     width: 100%;
-    position: fixed;
+    position:absolute;
     z-index: 999;
-    display: flex;
+    display:flex;
     justify-content: space-between;
     align-items: center;
-    padding: 10px 20px;
+    padding: 3px 20px;
 }
 
 .Logo{
